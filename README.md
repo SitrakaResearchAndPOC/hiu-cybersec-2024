@@ -16,4 +16,4 @@ Les réponses seront évalués selon les critères suivants :
 Des prix seront attribués aux équipes ayant démontré les performances les plus remarquables. Les récompenses visent à reconnaître l'excellence technique, la créativité et la collaboration des participants.
 
 # Calendrier 📅
-- Date du Hackathon: 23 et 24 Mars 2024
+- Date du Hackathon Cybersec: 24 Mars 2024
