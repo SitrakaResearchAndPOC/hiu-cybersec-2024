@@ -1,0 +1,6 @@
+version: '3.9'
+services:
+  mywhois:
+    image: harrylepap/cybersec_powertools:latest
+    ports:
+      - "8000:80"

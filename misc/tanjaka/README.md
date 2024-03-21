@@ -1,7 +1,7 @@
-# DEBUTANT > MISC
+# NORMAL > MISC
 
 ## Description
-🚀 Apprenez Python pour relever ce défi ! Votre mission est de plonger dans les profondeurs de `flag.txt`. Que le hacking commence ! 💻🔍
+🔍 Intriguant, n'est-ce pas ? Nous avons mis en place un mystérieux service en ligne pour la recherche de noms de domaine. Pensez-vous avoir ce qu'il faut pour percer son secret ? 🕵️‍♂️💻
 
 🔔 **Attention**: Votre chemin vers le trésor doit passer par le réseau exposé du conteneur Docker. Aucun raccourci ne mène au but!
 
