@@ -1,0 +1,6 @@
+version: '3.9'
+services:
+  bonus-points:
+    image: harrylepap/cybersec_fofomazia:latest
+    ports:
+      - "4000:4000"
