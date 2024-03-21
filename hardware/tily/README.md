@@ -1,4 +1,4 @@
-# Bienvenue à l'Épreuve FLAG!
+# DEBUTANT > HARDWARE
 
 ## Description
 🚩 Dites le mot magique "FLAG" et le trésor sera à vous! 🚩
