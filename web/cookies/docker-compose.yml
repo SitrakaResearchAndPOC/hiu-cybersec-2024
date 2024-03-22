@@ -1,0 +1,14 @@
+version: '3.9'
+services:
+  website:
+    image: harrylepap/cybersec_recherche:latest
+    ports:
+      - "8000:8000"
+    environment:
+      - BOT_REPORT_URL=http://botnet/report
+
+  botnet:
+    image: harrylepap/cybersec_bot:latest
+    hostname: botnet
+    environment:
+      - HOST_WEB=website
