@@ -1,0 +1,6 @@
+version: '3.9'
+services:
+  nas-server:
+    image: harrylepap/cybersec_nas:latest
+    ports:
+      - "8000:80"
