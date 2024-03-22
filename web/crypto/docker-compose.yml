@@ -1,0 +1,6 @@
+version: '3.9'
+services:
+  rova_manjakamiadana:
+    image: harrylepap/cybersec_rova:latest
+    ports:
+      - "8000:80"
