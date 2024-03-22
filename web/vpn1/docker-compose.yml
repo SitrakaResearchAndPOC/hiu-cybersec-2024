@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  vpn:
+    image: harrylepap/cybersec_vpn1:latest
+    ports:
+      - 8000:1337
+
+  baguette-vpn-cdn:
+    image: harrylepap/cybersec_vpn1_cdn:latest
+    hostname: baguette-vpn-cdn
