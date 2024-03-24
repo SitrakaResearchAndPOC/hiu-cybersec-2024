@@ -13,3 +13,6 @@ zyulyg-diba u si whxcaifl ly si fpbohvcl ty 24 tilz xibz fl lyicn km pvbll uczac
 
 Êtes-vous prêt à percer ce secret et à découvrir le flag tant convoité? Que l'aventure commence! 🌟🚀
 
+## UPDATE
+Le flag est HIU{NOM_DE_LA_VILLE}
+
